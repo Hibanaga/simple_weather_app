@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #5a68b8;
+  height: 100px;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.img_logo {
+  width: 100px;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.main {
+  margin-top: 2rem;
+}
